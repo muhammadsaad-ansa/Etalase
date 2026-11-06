@@ -1,0 +1,8 @@
+{
+  "name": "Remix LinkVault Studio",
+  "description": "Professional Link-in-Bio \u0026 Link Showcase Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
